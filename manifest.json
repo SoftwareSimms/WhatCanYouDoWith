@@ -2,5 +2,11 @@
     "manifest_version": 3,
     "name": "What Can You Do With",
     "version": "1.0",
-    "description": "A tool to find the use cases of concrete nouns."
+    "description": "A tool to find the use cases of concrete nouns.",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
   }
