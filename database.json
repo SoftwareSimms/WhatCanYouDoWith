@@ -5,22 +5,19 @@
       {
         "use": "Soup",
         "recipes": [
-          "https://www.bbcgoodfood.com/recipe/tomato-soup",
-          "https://www.bbcgoodfood.com/recipe/roasted-tomato-soup"
+          "https://www.bbcgoodfood.com/recipe/tomato-soup"
         ]
       },
       {
         "use": "Salad",
         "recipes": [
-          "https://www.bbcgoodfood.com/recipe/tomato-salad",
-          "https://www.bbcgoodfood.com/recipe/italian-tomato-salad"
+          "https://www.bbcgoodfood.com/recipe/tomato-salad"
         ]
       },
       {
         "use": "Sauce",
         "recipes": [
-          "https://www.bbcgoodfood.com/recipe/tomato-sauce",
-          "https://www.bbcgoodfood.com/recipe/spaghetti-tomato-sauce"
+          "https://www.bbcgoodfood.com/recipe/tomato-sauce"
         ]
       }
     ]
