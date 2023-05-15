@@ -2,9 +2,46 @@
   {
     "noun": "tomato",
     "uses": [
-      "Soup",
-      "Salad",
-      "Sauce"
+      {
+        "use": "Soup",
+        "recipes": [
+          "https://www.bbcgoodfood.com/recipe/tomato-soup",
+          "https://www.bbcgoodfood.com/recipe/roasted-tomato-soup"
+        ]
+      },
+      {
+        "use": "Salad",
+        "recipes": [
+          "https://www.bbcgoodfood.com/recipe/tomato-salad",
+          "https://www.bbcgoodfood.com/recipe/italian-tomato-salad"
+        ]
+      },
+      {
+        "use": "Sauce",
+        "recipes": [
+          "https://www.bbcgoodfood.com/recipe/tomato-sauce",
+          "https://www.bbcgoodfood.com/recipe/spaghetti-tomato-sauce"
+        ]
+      }
+    ]
+  },
+  {
+    "noun": "example",
+    "uses": [
+      {
+        "use": "Use 1",
+        "recipes": [
+          "https://www.example.com/recipe1",
+          "https://www.example.com/recipe2"
+        ]
+      },
+      {
+        "use": "Use 2",
+        "recipes": [
+          "https://www.example.com/recipe3",
+          "https://www.example.com/recipe4"
+        ]
+      }
     ]
   }
 ]
