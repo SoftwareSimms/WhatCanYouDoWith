@@ -84,3 +84,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 });
+document.getElementById('highlightBtn').addEventListener('click', () => {
+  chrome.tabs.executeScript({
+    file: 'content.js'
+  });
+});

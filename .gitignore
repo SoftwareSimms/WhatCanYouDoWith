@@ -1,0 +1,12 @@
+# Backend
+backend/.DS_Store
+backend/*.log
+backend/*.pid
+backend/*.pyc
+backend/*.pyo
+backend/*.db
+
+# Frontend
+frontend/node_modules
+frontend/.next
+frontend/.env.local
